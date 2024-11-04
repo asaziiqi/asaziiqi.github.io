@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asaziiqi.github.io/GWf/sitemap_index.txt
+Sitemap: https://asaziiqi.github.io/IJD/sitemap_index.txt
+Sitemap: https://asaziiqi.github.io/NEF/sitemap_index.txt
+Sitemap: https://asaziiqi.github.io/mxa/sitemap_index.txt
